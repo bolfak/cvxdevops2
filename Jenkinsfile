@@ -20,6 +20,11 @@ pipeline {
         sh 'dotnet build'
       }
     }
+    stage('Run Tests') {
+      steps {
+        sh 'dotnet test'
+      }
+    }
     stage('Build Docker Image') {
       steps {
         script {
