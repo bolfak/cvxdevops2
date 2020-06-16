@@ -106,8 +106,6 @@ C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\bin\Debug\netcor
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\bin\Debug\netcoreapp3.1\xunit.core.dll
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.csprojAssemblyReference.cache
-C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.csproj.CoreCompileInputs.cache
-C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.RazorAssemblyInfo.cache
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.RazorAssemblyInfo.cs
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.AssemblyInfoInputs.cache
@@ -131,3 +129,5 @@ C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcor
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.dll
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.pdb
 C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.genruntimeconfig.cache
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\aspnetcoreapp\obj\Debug\netcoreapp3.1\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
