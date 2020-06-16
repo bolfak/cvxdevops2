@@ -6,7 +6,7 @@ namespace Services
     {
         public double Add(double m, double n)
         {
-            return m + n + 2;
+            return m + n;
         }
 
         public double Subtract(double m, double n)
