@@ -22,7 +22,7 @@ pipeline {
     }
     stage('Run Tests') {
       steps {
-        sh 'dotnet test'
+        sh 'dotnet test ./Tests/Tests.csproj'
       }
     }
     stage('Build Docker Image') {
