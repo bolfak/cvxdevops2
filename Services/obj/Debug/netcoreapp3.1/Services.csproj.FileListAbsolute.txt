@@ -1,0 +1,9 @@
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\Mobolaji Fakeyede\source\repos\cvxdevops\Services\obj\Debug\netcoreapp3.1\Services.pdb
